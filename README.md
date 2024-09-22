@@ -1,2 +1,3 @@
 # logo
-logo image
+logo image size
+
